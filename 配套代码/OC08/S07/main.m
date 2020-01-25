@@ -21,7 +21,7 @@ int main(int argc, const char * argv[]) {
 //        [Student run];
         
 //        [stu eatWith:@"apple"];
-//        [stu eatWith:@"apple" @"banana"];
+//        [stu eatWith1:@"apple" :@"banana"];
         NSInteger myAge = [stu age];
         NSLog(@"student age is %ld",myAge);
     }
